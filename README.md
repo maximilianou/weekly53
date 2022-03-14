@@ -1,2 +1,2 @@
 # weekly53
-Gatsby Blog
+Blog
